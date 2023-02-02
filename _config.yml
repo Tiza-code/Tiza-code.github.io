@@ -11,9 +11,9 @@ title                    : "Tiza I. Mfuni / Academic Pages Test Site"
 title_separator          : "-"
 name                     : &name "Tiza"
 description              : &description "First attempt at a GitHub website"
-url                      : https://Tizacademicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : Tiza-code.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
-repository               : "Tiza-code/academicpages.github.io"
+repository               : "Tiza-code.github.io"
 teaser                   : "Tiza.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Tiza"
+  avatar           : "Tiza.jpg"
+  bio              : "Watch this space"
+  location         : "Earth"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
