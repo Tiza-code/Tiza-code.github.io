@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tiza I. Mfuni / Academic Pages Test Site"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Tiza I. Mfuni"
+name                     : &name "Tiza I Mfuni"
 description              : &description "First attempt at a GitHub website"
-url                      : Tiza-code.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Tiza-code.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tiza-code.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tiza"
-  avatar           : "Tiza.jpg"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
   bio              : "Watch this space"
   location         : "Earth"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Tiza-code"
   google_plus      :
   keybase          :
   instagram        :
