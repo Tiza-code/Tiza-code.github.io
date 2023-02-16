@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tiza I. Mfuni"
 title_separator          : "-"
-name                     : &name "Tiza I Mfuni"
-description              : &description "First attempt at a GitHub website"
+name                     : &name "Tiza I. Mfuni"
+description              : &description "PhD student at the Pennsylvania State University"
 url                      : https://Tiza-code.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tiza-code.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Tiza I. Mfuni"
   avatar           : "profile.png"
-  bio              : "Watch this space"
+  bio              : "PhD student at the Pennsylvania State University and a researcher of Africa's place in the World"
   location         : "Earth"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Tiza-Mfuni"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "that_local_dude"
   vine             :
   weibo            :
   xing             :
